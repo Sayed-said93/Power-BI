@@ -7,29 +7,29 @@ Power BI Dashboard that Summarizes Revenue, Cost, Invoice Number, and GM.
 
 I created a Freight dashboard in Power BI that offers a comprehensive and intuitive overview of the Freight sales performance. The dashboard features a range of interactive charts and graphs that provide valuable insights into key metrics such as Revenue, Cost, Invoice Number, and GM.
 
-With this dashboard, managers or store owners can quickly identify trends and patterns in sales data, and make informed decisions to optimize their operations and improve profitability. The dashboard is highly customizable, allowing users to filter and drill down into the data by year,quarter and trailers .
+With this dashboard, managers or store owners can quickly identify trends and patterns in sales data, and make informed decisions to optimize their operations and improve profitability. The dashboard is highly customizable, allowing users to filter and drill down into the data by year, quarter, and trailers.
 
 
 ## PROCESS
 
-The dataset is in CSV format . The data is messy and need data cleaning. I Power Quary for faster data cleaning and manipulation.
+The dataset is in CSV format. The data is messy and needs data cleaning. I Power Quary for faster data cleaning and manipulation.
 
 
 ### Analyze
 
-First, I got the total Revenue, Cost, Invoice Number, and GM. by adding cards and the sum of the entire  value and add the values from last year to compare the values and known if it increasing or decreasing.
+First, I got the total Revenue, Cost, Invoice Number, and GM by adding cards and the sum of the entire  value and adding the values from last year to compare the values and know if it was increasing or decreasing.
 
 ![Screenshot 2024-09-17 160452](https://github.com/user-attachments/assets/dd4ad6ac-85ca-4cc4-a476-28af61754cd0)
 
 ### pages
 Page1:-
 
-I added an line and cluster column chart to show 
+I added a line and cluster column chart to show 
 1-Total Revenue and  gross margin per data
 2-Top 10 Net Revenue and Invoice Number by City
 3-Total Net Revenue and GM% by Trailers Type
 
-and added pie chart to show
+and added a pie chart to show
 
 1-Invoice Number by State
 
@@ -40,7 +40,7 @@ and added pie chart to show
 
 
 Page2:-
-I added an line and cluster column chart to show 
+I added a line and cluster column chart to show 
 
 1-Total Cost and  gross margin per data
 
@@ -48,7 +48,7 @@ I added an line and cluster column chart to show
 
 3-Total Cost and  gross margin per Trunk
 
-4-Total Cost and  gross margin per Trailier type
+4-Total Cost and  gross margin per Trailer type
 
 
 ![Screenshot 2024-09-17 160819](https://github.com/user-attachments/assets/ca7dc02c-66e9-446d-a13a-6467b3133f9f)
